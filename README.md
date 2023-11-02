@@ -307,9 +307,9 @@ DB_PASSWORD=(senha do mySQL)
 #
 
 ## Devs:
+>## - [Gabriel Camilo]
 >## - [Nai'a Utescher]
 >## - [Juliana Andrade]
->## - [Gabriel Camilo]
 >## - [Yuri Schuery]
 >## - [Daniela Guilhoto]
 #
